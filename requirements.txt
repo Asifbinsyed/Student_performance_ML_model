@@ -1,2 +1,4 @@
-Numpy
--e . 
+numpy
+seaborn
+scikit-learn
+catboost
